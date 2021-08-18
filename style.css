@@ -371,6 +371,9 @@ h5 {
 p {
   margin: 0;
 }
+.p-a-header{
+    color: var(--text-color-white);
+}
 
 @media screen and (max-width: 768px) {
   .link-icons {
